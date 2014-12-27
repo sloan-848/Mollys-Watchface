@@ -7,12 +7,18 @@
     "longName": "Molly's Watchface",
     "projectType": "native",
     "resources": {
-        "media": []
+        "media": [
+            {
+                "file": "fonts/Action_Man.ttf",
+                "name": "ACTION_MAN_30",
+                "type": "font"
+            }
+        ]
     },
     "shortName": "Molly's Watchface",
     "uuid": "63f128a4-2afc-4865-9aa2-d47d27d7c1a9",
     "versionCode": 1,
-    "versionLabel": "1.0",
+    "versionLabel": "1.1",
     "watchapp": {
         "watchface": true
     }
